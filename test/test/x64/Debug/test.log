@@ -1,0 +1,17 @@
+﻿3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwInit，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwTerminate，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwWindowHint，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwCreateWindow，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwWindowShouldClose，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwSetWindowShouldClose，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwSetFramebufferSizeCallback，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwPollEvents，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwGetKey，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z) 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwGetTime，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwMakeContextCurrent，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwSwapBuffers，函数 main 中引用了该符号
+3d立方体.obj : error LNK2019: 无法解析的外部符号 glfwGetProcAddress，函数 main 中引用了该符号
+C:\Users\29443\Desktop\计算机图形学\test\test\Dependencies\glfw\lib-vc2022\glfw3.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\29443\Desktop\计算机图形学\test\test\Dependencies\glut\glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\29443\Desktop\计算机图形学\test\test\Dependencies\glut\glut.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\29443\Desktop\计算机图形学\test\x64\Debug\test.exe : fatal error LNK1120: 13 个无法解析的外部命令

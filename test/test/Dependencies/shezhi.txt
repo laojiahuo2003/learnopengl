@@ -1,0 +1,13 @@
+$(SolutionDir)Dependencies\glut
+$(SolutionDir)Dependencies\glew\include
+$(SolutionDir)Dependencies\glfw\include
+
+$(SolutionDir)Dependencies\glut
+$(SolutionDir)Dependencies\glew\lib\Release\Win32
+$(SolutionDir)Dependencies\glfw\lib-vc2022
+
+opengl32.lib
+glew32s.lib
+glfw3.lib
+glut32.lib
+glut.lib
